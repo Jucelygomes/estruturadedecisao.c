@@ -8,4 +8,8 @@ int main (){
 
     if (numero1 > numero2) {
         printf("numero1 e maior que numero2");
+    
+    }
+    return 0;
+
     }    
